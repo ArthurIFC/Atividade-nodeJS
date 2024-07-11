@@ -63,7 +63,7 @@ localhost:3002/Jogo/2
 
     {“nome”:”GTA”,“jogadorId” 2}
 
-      Delete  
+Delete  
 – Para apagar o jogador e jogo
 localhost:3002/Jogador/8
 
