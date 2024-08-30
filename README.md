@@ -39,7 +39,7 @@ localhost:3002/Jogo/
 
 - logo em seguida fizemos novamente um GET para pegar o ID de ambos
 
-      localhost:3002/Jogo/      esse vai ser para o jogo
+      localhost:3002/Jogo/3      esse vai ser para o jogo
 ![image](https://github.com/ArthurIFC/Atividade-nodeJS/assets/160235840/d50beb46-5a41-4252-a2f3-c5b5c9f27971)
 
     localhost:3002/Jogador/2      e esse vai ser para o jogador
