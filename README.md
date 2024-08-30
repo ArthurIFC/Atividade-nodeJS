@@ -17,7 +17,7 @@ Trabalho Realizado por Arthur França e Philipp Wolfrik Krieser
 - Primeiro criamos o JOGADOR
 localhost:3002/Jogador/
 
-      {
+  {
   "nome":"Logan",
   "idade":18
   }
@@ -25,7 +25,7 @@ localhost:3002/Jogador/
 - Depois criamos o JOGO
 localhost:3002/Jogo/
 
-      {
+  {
   "Nome":"tomas",
   "JogadorId":2
   }
