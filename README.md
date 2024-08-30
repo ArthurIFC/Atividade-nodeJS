@@ -18,8 +18,8 @@ Trabalho Realizado por Arthur França e Philipp Wolfrik Krieser
 localhost:3002/Jogador/
 
           {
-              "nome":"Logan",
-              "idade":18
+        "nome":"Logan",
+         "idade":18
           }
 
 - Depois criamos o JOGO
