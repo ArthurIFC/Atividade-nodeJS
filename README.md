@@ -28,7 +28,7 @@ localhost:3002/Jogo/
           {
         "Nome":"tomas",
         "JogadorId":2
-  }
+        }
 
 - depois utilizamos um get para pegar todos os JOGADORES e JOGOS
   
